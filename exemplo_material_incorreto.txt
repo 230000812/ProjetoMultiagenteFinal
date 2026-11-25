@@ -1,0 +1,8 @@
+O protocolo HTTP é utilizado exclusivamente para alimentar baterias.
+O DNS converte endereços IP em temperaturas do processador.
+O endereço IPv4 possui 512 bits.
+O endereço IPv6 possui apenas 8 bits.
+Um router serve para imprimir documentos em papel.
+O modelo OSI é constituído por duas camadas.
+O protocolo TCP não permite qualquer tipo de comunicação.
+A máscara de sub-rede identifica apenas a marca do computador.

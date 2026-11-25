@@ -1,0 +1,8 @@
+O protocolo HTTP permite a transferência de recursos na Web.
+O DNS traduz nomes de domínio em endereços IP.
+O endereço IPv4 possui 32 bits.
+O endereço IPv6 possui 128 bits.
+Um router encaminha pacotes entre redes diferentes.
+O modelo OSI é constituído por sete camadas.
+O protocolo TCP estabelece uma ligação orientada à conexão.
+A máscara de sub-rede identifica a parte de rede e a parte de host.
